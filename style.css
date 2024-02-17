@@ -1,0 +1,48 @@
+body{
+    margin: 36px auto;
+    width: 45%;
+    height: 500px;
+    transition: 1000ms;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    font-family: math;
+    font-size: 36px;
+}
+
+button{
+    background-color: #db2777;
+    width: 17%;
+    height: 40px;
+    margin-top: 17px;
+    border: 0;
+    border-radius: 11px;
+    font-size: 19px;
+}
+
+main{
+    margin-top: 15%;
+}
+
+.heading2 {
+    color: #db2777;
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+
+.span{
+    color: #6b7280;
+}
+
+.articlePara{
+    color: rgb(30 37 46);
+    opacity: 0.9;
+    font-size: 17px;
+    font-family: monospace;
+
+}
